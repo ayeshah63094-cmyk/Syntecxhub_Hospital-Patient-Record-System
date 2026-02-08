@@ -1,4 +1,3 @@
-# Syntecxhub_Hospital-Patient-Record-System
 # Hospital Patient Record System (MySQL)
 
 ## Project Overview
@@ -74,7 +73,6 @@ The patients table contains the following fields:
 
 ## Output Screenshots
 Screenshots are included for the following operations:
-- Table creation
 - Insert operation
 - Update operation
 - Delete operation
