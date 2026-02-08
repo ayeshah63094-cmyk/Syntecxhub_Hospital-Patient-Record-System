@@ -1,0 +1,1 @@
+# Syntecxhub_Hospital-Patient-Record-System
